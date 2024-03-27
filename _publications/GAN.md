@@ -32,7 +32,7 @@ cision. Future research endeavors will delve into further refining
  this method, embedding it into prevailing security frameworks,
  and examining its potential application to other complex network
  spheres.'
-date: 12/17/2023
+date: '2023/12/17'
 venue: '2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)'
 paperurl: 'files/UAV-GAN.pdf'
 citation: ' Qingli Zeng, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam'
