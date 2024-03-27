@@ -2,7 +2,7 @@
 title: "Generative AI Enabled Disaster Scene Computing for Climate Risk-Informed 
 Communication "
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: files/cpasw-abstract.pdf
 excerpt: 'To achieve a climate-resilient nation, it is crucial to communicate climate risk comprehensively. The 
 advent of generative AI (GAI) brings a significant opportunity to broaden climate risk-informed 
 communication, and one potential is to use both climate forecast information and data from past climate 
@@ -19,7 +19,7 @@ implying its limitations in zero-shot learning capabilities in a textual-to-visu
 date: 2024-07-30
 venue: 'Venue: 48th Annual Climate Diagnostics and Prediction Workshop & the 21st Annual 
 Climate Prediction Applications Science Workshop.'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://kbrh3.github.io/files/cpasw-abstract.pdf'
 citation: ' ZhiQiang Chen, Kailynn Barnt, Bandana Kar'
 ---
 
