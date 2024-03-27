@@ -84,3 +84,20 @@ Projects
 Currently working on several papers that will hopefully be published this summer. Both have short descriptions in the 'publications' tab. We are also working on using LLMs to create a RAG model to assist in reducing overdoses on drugs. The model will be trained on scientific papers given to us by the university's medical school, and will offer advice and warnings on things like how certain drugs mix, signs of overdosing, and what to do in an emergency. This will be completely anonymous, and though it is not a replacement for medical intervention it may reduce the necessity of such.
 
 
+Work Experience
+------
+Lifeguard - 10 years
+
+Head Lifeguard - 5 years
+
+Lifeguard Instructor - 4 years
+
+Office Assistant/Dance instructor - 6 years (current)
+
+Pilates Instructor - 2 years
+
+RST research intern - summer of 2023
+
+Work-Study research assistant - 2024 ( current )
+
+
