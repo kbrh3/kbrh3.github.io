@@ -27,7 +27,7 @@ developing a HITL decision-making workflow for rapid and objective disaster-scen
 post-disaster response.'
 date: 2024-07-30
 venue: 'ASCE International Conference on Computing in Civil Engineering, 2024 '
-paperurl: '[http://kbrh3.github.io/files/GAI-Abstract.pdf](https://github.com/kbrh3/kbrh3.github.io/blob/f72e2b65fd689fbd50df6d9277dae4f60a9ff7e2/files/GAI-Abstract.pdf)'
+paperurl: /files/GAI-Abstract.pdf
 citation: 'Kailynn Barnt and ZhiQiang Chen'
 ---
 
