@@ -21,7 +21,7 @@ repository               : "kbrh3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "silksimage.png"
+  avatar           : "croppedpic.png"
   name             : "Kailynn Romy Barnt"
   pronouns         : "She/Her"  
   bio              : "CS Bachelors->Masters Student "
