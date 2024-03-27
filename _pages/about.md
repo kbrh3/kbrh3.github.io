@@ -100,4 +100,6 @@ RST research intern - summer of 2023
 
 Work-Study research assistant - 2024 ( current )
 
-
+Credits
+---------
+This website was designed using jekyll, forking from the "https://github.com/academicpages/academicpages.github.io" public template. 
