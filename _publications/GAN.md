@@ -34,7 +34,7 @@ cision. Future research endeavors will delve into further refining
  spheres.'
 date: '2023/12/17'
 venue: '2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)'
-paperurl: 'files/UAV-GAN.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10476232'
 citation: ' Qingli Zeng, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam'
 ---
 
