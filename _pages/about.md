@@ -19,36 +19,61 @@ redirect_from:
 
 Bio:
 ======
-I am currently about a 1-2 years away from graduating from my masters, and then I will most likely be seeking a PhD program. My long term goal is London, so a University in the UK would be ideal. I also wish to attend the national centre for circus arts while I am there; I have friends that attended and it comes highly recommended. Academically, I would like to do something related to AI, and work in research. I would not be apposed to trying other fields though, and do still love the puzzle that software development offers.
+I am currently about 1-2 years away from graduating from my masters, and then I will most likely be seeking a PhD program. My long term goal is London, so a University in the UK would be ideal. I also wish to attend the national centre for circus arts while I am there; I have friends that attended and it comes highly recommended. Academically, I would like to do something related to AI, and work in research. I would not be apposed to trying other fields though, and do still love the puzzle that software development offers.
 
 Education:
 ======
 UMKC - Bachelors expected 2025
          - minors in Statistics, Data Analytics, and Actuarial Science
+
+         
 UMKC - Masters expected 2026
+
+
 JCCC - Associate of Fine Arts (Theater specialization)
+
+
 JCCC - Associate of Science
+
+
 JCCC - Cybersecurity certificate, expected 2026
+
+
 UNLV - Pilates Instructor Certification
 
 
-Courses taken
+Courses taken 
 ------
 Linear Algebra
+
 Math Statistics
+
 Calculus (1-3)
+
 Physics for Engineers
+
 Intro to statistical and Machine Learning
+
 Fundamentals of Java
+
 Fundamentals of Python
+
 Fundamentals of C++
+
 Intro to Web Developement
+
 Applied Probability
+
 Economics (Micro and Macro)
+
 Ethics for Engineers
+
 RST course in cybersecurity
+
 Data Structures
+
 Intro to algorithms and complexity
+
 Computer Architecture and Organization
 
 
