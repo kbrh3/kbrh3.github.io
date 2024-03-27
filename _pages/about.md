@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer science student at the university of Missouri-Kansas City, working on the Bachelors to Masters degree.
+I'm a Computer Science student at the university of Missouri-Kansas City, working on the Bachelors to Masters degree.
+
+My interests are cybersecurity and Artificial Intelligence.
+
+I'm a dancer, and my favorite styles are Ballet and Contemporary.
+
+I love circus, and have been training Aerial Arts, Contortion, and Juggling for a few years now, with several different KC based Cirque Companies.
+
+I love books, crafting, and my 2 cats
 
 A data-driven personal website
 ======
