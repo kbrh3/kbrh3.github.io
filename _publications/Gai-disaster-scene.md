@@ -2,7 +2,7 @@
 title: "Testing of Generative AI for Disaster Scene Computing and Human-in-the-loop Post-disaster 
 Decision-Making "
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /files/GAI-Abstract.pdf
 excerpt: 'Generative AI, specifically large multimode models (LMM), is transforming the practice of 
 machine learning or conventional AI for applying predictive analytics in engineering and many 
 other fields. In Civil Engineering, one traditionally hard problem, image-based built-environment 
@@ -27,7 +27,7 @@ developing a HITL decision-making workflow for rapid and objective disaster-scen
 post-disaster response.'
 date: 2024-07-30
 venue: 'ASCE International Conference on Computing in Civil Engineering, 2024 '
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://kbrh3.github.io/files/GAI-Abstract.pdf'
 citation: 'Kailynn Barnt and ZhiQiang Chen'
 ---
 
